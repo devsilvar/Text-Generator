@@ -1,0 +1,23 @@
+@import url("../node_modules//bootstrap/dist/css/bootstrap.css");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Nunito+Sans:opsz,wght@6..12,300;6..12,400;6..12,800&display=swap");
+
+@media screen and (max-width: 480px) {
+  .text-sm {
+    font-size: 4vw;
+  }
+  .w-sm-75 {
+    width: 70%;
+  }
+}
+
+@media screen and (min-width: 480px) {
+  .text-sm {
+    font-size: 1.3vw;
+  }
+}
+
+body {
+  overflow-y: visible;
+  font-family: "Inter", sans-serif;
+  font-family: "Nunito Sans", sans-serif;
+}
