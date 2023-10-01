@@ -1,8 +1,17 @@
-# React + Vite
+# LOREM-IPSUM ALTERNATIVE TEXT GENERATOR
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Tools
+- React JS
+- Vite
+- Bootstrap CSS
+- Javascript
+- RestFul Api
 
-Currently, two official plugins are available:
+# Project Goals
+- Users can Genrate Text
+- Users Should be able to Copy text easily
+- Users should be able to adjust the size of text Being generated
+- Users should be able to Copy all text at Once
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
